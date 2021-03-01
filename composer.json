@@ -2,6 +2,7 @@
     "name": "savks/laravel-utils",
     "description": "Laravel utils",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Andrii Savluk",
