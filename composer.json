@@ -1,0 +1,19 @@
+{
+    "name": "savks/laravel-utils",
+    "description": "Laravel utils",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrii Savluk",
+            "email": "savluk.andrii.v@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Savks\\Consoler\\": "src"
+        }
+    }
+}
